@@ -1,4 +1,4 @@
-# Laravel + Livewire Starter Kit
+# Laravel + Livewire
 
 ## Introduction
 
